@@ -1,2 +1,2 @@
-# TiDi-List
+# ToDo-List
 Lista de tarefas usando componentes do material UI
